@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/148731/screenshots/6662134/nowhiring-2019-dribbble.gif)](https://fayzulin.me)
+
 <h1 align="center">Hi 👋, I'm Sher Fayzulin</h1>
 <h3 align="center">Front-end developer</h3>
 <img align=“right” alt=“Coding” width=“400” src=“https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif”>
