@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/3e/fc/f1/3efcf1e9a5f2c3354714699b321221b4.gif)
 <h1 align="center">Hi 👋, I'm Sher Fayzulin</h1>
 <h3 align="center">Front-end developer</h3>
-<img align=“center”  src=“https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif”>
+<img align=“right” width="400"  src=“https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayzu1in&label=Profile%20views&color=0e75b6&style=flat" alt="fayzu1in" /> </p>
 
